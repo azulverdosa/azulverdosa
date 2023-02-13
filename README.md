@@ -1,10 +1,10 @@
 ![Hiya](https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png)
 
-Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care 
-industry turned software developer. 
+Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health <br/>
+care industry turned software developer. 
 
-Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience 
-in multiple industries, I'm working hard to become a well rounded Full-Stack developper. 
+Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience <br/>
+in multiple industries, I'm working hard to become a well rounded Full-Stack developper. <br/>
 
 My current tech stack:
 
@@ -20,9 +20,9 @@ My current tech stack:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
-My constant desire to find ways to improve systems and situations is what brought me to software 
-development and as I begin my new career I am motivated by the idea of innovative growth and 
-continually working to improve things, leaving them better than they were.
+My constant desire to find ways to improve systems and situations is what brought me to software <br/>
+development and as I begin my new career I am motivated by the idea of innovative growth and <br/>
+continually working to improve things, leaving them better than they were.<br/>
 
 <!--
 - 🔭 I’m currently working on ...
