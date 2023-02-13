@@ -3,7 +3,7 @@
 ![MeMoji](https://user-images.githubusercontent.com/91709114/218590816-4a19ca94-2661-45ba-9ab3-bc0eb3a10ce9.jpg)
 
 
-<!--
+
 **azulverdosa/azulverdosa**
 
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry turned software developer. Self-taught and specialized in Frontend languages (JavaScript, TypeScript, React etc), with almost 15 years of transferable experience in multiple industries.
@@ -20,4 +20,4 @@ As I begin my new career I am motivated by the idea of innovative growth and con
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
