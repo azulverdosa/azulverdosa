@@ -1,17 +1,32 @@
 ### Hiya, I'm Ava 👋 
 
-![MeMoji](https://user-images.githubusercontent.com/91709114/218590816-4a19ca94-2661-45ba-9ab3-bc0eb3a10ce9.jpg)
+<!-- ![MeMoji](https://user-images.githubusercontent.com/91709114/218590816-4a19ca94-2661-45ba-9ab3-bc0eb3a10ce9.jpg)-->
 
+Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry turned software developer. 
 
+Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. 
 
-**azulverdosa/azulverdosa**
+My current tech stack:
+- HTML5
+- CSS
+- JavScript
+- TypeScript
+- React
+- Node.js
+- Express.js
+- SQL
+- Mongoose
 
-Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry turned software developer. Self-taught and specialized in Frontend languages (JavaScript, TypeScript, React etc), with almost 15 years of transferable experience in multiple industries.
+Next on my list to learn:
+- Python
+- AWS
+- Next.js
+- Tailwind
+- Java
 
-My constant desire to find ways to improve systems and situations is what brought me to software development. I feel that being a part of the tech development world is the best way to impact industries in their search for advancement and can catapult businesses to becoming leaders in their fields. 
+My constant desire to find ways to improve systems and situations is what brought me to software development and as I begin my new career I am motivated by the idea of innovative growth and continually working to improve things, leaving them better than they were.
 
-As I begin my new career I am motivated by the idea of innovative growth and continually working to improve things, leaving them better than they were.
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +35,4 @@ As I begin my new career I am motivated by the idea of innovative growth and con
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
