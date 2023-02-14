@@ -24,6 +24,9 @@ My constant desire to find ways to improve systems and situations is what brough
 development and as I begin my new career I am motivated by the idea of innovative growth and <br/>
 continually working to improve things, leaving them better than they were.<br/>
 
+Always happy and excited to connect! [LinkedIn](https://www.linkedin.com/in/avatorre/)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
