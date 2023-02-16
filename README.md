@@ -1,10 +1,8 @@
 ![Hiya](https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png)
 
-Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health <br/>
-care industry turned software developer. 
+Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry turned software developer. 
 
-Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience <br/>
-in multiple industries, I'm working hard to become a well rounded Full-Stack developper. <br/>
+Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. <br/>
 
 My current tech stack:
 
