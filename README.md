@@ -19,9 +19,7 @@ My current tech stack:
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-My constant desire to find ways to improve systems and situations is what brought me to software <br/>
-development and as I begin my new career I am motivated by the idea of innovative growth and <br/>
-continually working to improve things, leaving them better than they were.<br/>
+My constant desire to find ways to improve systems and situations is what brought me to software development and as I begin my new career I am motivated by the idea of innovative growth and continually working to improve things, leaving them better than they were.
 
 Always happy and excited to connect! [LinkedIn](https://www.linkedin.com/in/avatorre/)
 
