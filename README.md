@@ -19,22 +19,24 @@ My current tech stack:
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) -->
 
-My constant desire to find ways to improve systems and situations is what brought me to software development and as I begin my new career I am motivated by the idea of innovative growth and continually working to improve things, leaving them better than they were.
+My constant desire to find ways to improve systems and situations is what brought me to software development and as I begin my new career I am motivated by the idea of innovative growth and leaving things better than I found them.
 
 Always happy and excited to connect! [LinkedIn](https://www.linkedin.com/in/avatorre/)
 
 
 <!--
 - 🔭 I’m currently working on ...
+     A bunch of things!
 - 🌱 I’m currently learning ...
+     Angular, Electron, Python and Spanish. Yes, all at once.
 - 👯 I’m looking to collaborate on ...
+     Anything!
 - 🤔 I’m looking for help with ...
-     How to break into the industry
+     How to break into the industry.
 - 💬 Ask me about ...
      Roller Derby
-- 📫 How to reach me: ...
-     [LinkedIn](https://www.linkedin.com/in/avatorre/)
 - 😄 Pronouns: ...
      She/Her
 - ⚡ Fun fact: ...
+     Dog and cat nose pads are as unique as a human fingerprint, so no two noseprints are ever alike.
 -->
