@@ -17,6 +17,7 @@ My current tech stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-339933.svg?style=for-the-badge&logo=Angular&logoColor=white)
 <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) -->
 
 My constant desire to find ways to improve systems and situations is what brought me to software development and as I begin my new career I am motivated by the idea of innovative growth and leaving things better than I found them.
