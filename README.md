@@ -1,12 +1,7 @@
-<p align="center">
-     <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png">
-</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Ava's tagline image"/>
 </p>
-
-![Hiya](https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png)
 
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
 
