@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Sublime's custom image"/>
 </p>
 
 ![Hiya](https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png)
