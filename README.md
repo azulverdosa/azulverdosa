@@ -28,7 +28,9 @@ My current tech stack:
 
 My constant desire to find ways to improve systems and situations is what brought me to software development and as I begin my new career I am motivated by the idea of innovative growth and leaving things better than I found them.
 
-Always happy and excited to connect! [LinkedIn](https://www.linkedin.com/in/avatorre/)
+Always happy and excited to connect! 
+[LinkedIn](https://www.linkedin.com/in/avatorre/)
+[Email](mailto:ellemocambo@gmail.com)
 
 
 <!--
