@@ -33,7 +33,7 @@ Always happy and excited to connect!
 - [LinkedIn](https://www.linkedin.com/in/avatorre/)
 - [Email](mailto:ellemocambo@gmail.com)
 
-<--
+<!--
 - 🔭 I’m currently working on ...
      A bunch of things!
 - 🌱 I’m currently learning ...
