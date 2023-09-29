@@ -4,13 +4,12 @@
 
 <p style="text-align: center;">Sample text with center alignment</p>
 
-<p style="text-align: center;">
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
 
 Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. 
 
-<br/> My current tech stack:
-</p>
+My current tech stack:
+
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
