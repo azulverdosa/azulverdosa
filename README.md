@@ -2,14 +2,14 @@
   <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Ava's tagline image"/>
 </p>
 
-<p style="text-align: center;"></p>
+
 
 <p align="center">
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
 </p>
 
+<p style="text-align: center;">Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. </p>
 
-Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. 
 
 My current tech stack:
 
