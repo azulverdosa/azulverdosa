@@ -8,7 +8,9 @@
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
 </p>
 
-<p style="text-align: center;">Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. </p>
+<p style="text-align: center;">
+Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. 
+</p>
 
 
 My current tech stack:
