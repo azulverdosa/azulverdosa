@@ -34,7 +34,6 @@ Always happy and excited to connect!
 - [Email](mailto:ellemocambo@gmail.com)
 
 
-<!--
 - 🔭 I’m currently working on ...
      A bunch of things!
 - 🌱 I’m currently learning ...
@@ -49,4 +48,4 @@ Always happy and excited to connect!
      She/Her
 - ⚡ Fun fact: ...
      Dog and cat nose pads are as unique as a human fingerprint, so no two noseprints are ever alike.
--->
+
