@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Ava's tagline image"/>
 </p>
 
-<p style="text-align: right;">Text_content</p>
+<p style="text-align: center;">Text_content</p>
 
 <p style="text-align: center;">
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
