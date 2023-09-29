@@ -6,7 +6,8 @@
 
 Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. <br/>
 
-My current tech stack:</p>
+My current tech stack:
+</p>
 
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
