@@ -2,11 +2,13 @@
   <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Ava's tagline image"/>
 </p>
 
+<p align="center">
 Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
 
 Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. <br/>
 
 My current tech stack:
+</p>
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
