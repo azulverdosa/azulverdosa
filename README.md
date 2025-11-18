@@ -31,7 +31,7 @@ My constant desire to find ways to improve systems and situations is what brough
 
 Always happy and excited to connect! 
 - [LinkedIn](https://www.linkedin.com/in/avatorre/)
-- [Email](mailto:ellemocambo@gmail.com)
+- [Email](mailto:avatorre@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
