@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/91709114/218597488-2cc50b0f-886f-4f81-8d63-daf6a04b8884.png" alt="Ava's tagline image"/>
 </p>
 
-Change is the law of life, and changes I have made. I'm a 9+ year veteran of the animal health care industry, turned software developer. 
+Change is the law of life, and changes I have made. I'm a 10 year veteran of the animal health care industry, turned software developer. 
 
-Self-taught and specialized in Frontend languages, with almost 15 years of transferable experience in multiple industries, I'm working hard to become a well rounded Full-Stack developper. 
+I'm self-taught and a front-end–leaning developer working toward full-stack confidence. I use TypeScript, Python, and modern web frameworks, and I care a lot about clarity, accessibility, and building things that feel good to use.
 
 My current tech stack:
 
